@@ -1,15 +1,15 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://isadba.github.io/"
 theme: "up-business-theme"
 languageCode: "en-us"
 
-title: "Up Business"
+title: "简数工作室"
 
 # googleAnalytics: ""
 
 summaryLength: 20
 
 params:
-  title: "Up Business"
+  title: "简数工作室"
   description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
   images: 
     - "images/hero-image.png"
@@ -32,28 +32,28 @@ params:
     - "4517 Washington Ave. Manchester, Kentucky 39495"
 
   contact:
-    - "trungkienspktnd@gamail.com"
-    - "207.555.0119"
+    - "邮箱: 282169258@qq.com"
+    - "微信: chinafenghao"
 
-  copyright: "© 2022 Up Business All Rights Reserved"
+  copyright: "© 2023 简数工作室 All Rights Reserved"
 
   postProcess: false
 
 menus:
   main:
-    - name: "Home"
+    - name: "首页"
       url: "/#hero"
       weight: 1
 
-    - name: "How we work"
-      url: "/#"
+    - name: "服务"
+      url: "/#services"
       weight: 2
 
-    - name: "Our team"
+    - name: "团队"
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
+    - name: "定价"
       url: "/#"
       weight: 4
 
@@ -62,7 +62,7 @@ menus:
       weight: 5
 
   buttons:
-    - name: "Book a call"
+    - name: "联系方式"
       url: "/#"
       weight: 5
       pre: "btn btn-primary text-light"
